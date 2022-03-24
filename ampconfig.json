@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Amplicagenda",
+    "description": "",
+    "version": "3sulniu9",
+    "id": "cl14pgnwf91558501s6uopes5my",
+    "url": "https://app.amplication.com/cl14pgnwf91558501s6uopes5my",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "amplicagenda",
+      "dbPassword": "topsecret",
+      "dbPort": 5432,
+      "dbUser": "amplicagenda",
+      "appId": "cl14pgnwf91558501s6uopes5my",
+      "authProvider": "Jwt"
+    }
+  }
+}
